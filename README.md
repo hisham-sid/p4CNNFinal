@@ -30,5 +30,5 @@ in terminal 4:
   sudo ./receive.py
 
 in terminal 5:
-  sudo ./send.py 10.0.0.2 <your-image-name>
+  sudo ./send.py 10.0.0.2 "your-image-name"
   
